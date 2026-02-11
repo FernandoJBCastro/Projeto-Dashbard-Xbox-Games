@@ -1,7 +1,7 @@
-# Dashboard de Assinaturas Xbox One
+# Dashboard de Assinaturas Xbox Games
 
 ## 📊 Visão Geral
-Este repositório contém um Dashboard desenvolvido em Microsoft Excel para análise e visualização das vendas de assinaturas do Xbox One.
+Este repositório contém um Dashboard desenvolvido em Microsoft Excel para análise e visualização das vendas de assinaturas do Xbox Games.
 
 O painel apresenta indicadores consolidados e gráficos interativos, permitindo análises dinâmicas por meio de filtros de segmentação.
 
@@ -13,7 +13,7 @@ Fornecer uma ferramenta visual e interativa para acompanhamento do desempenho da
 ---
 
 ## 🧩 Funcionalidades
-- Resumo total das assinaturas Xbox One
+- Resumo total das assinaturas Xbox Games
 - Detalhamento por serviço:
   - EA Play Season Pass
   - Minecraft Play Season Pass
@@ -58,12 +58,11 @@ Fornecer uma ferramenta visual e interativa para acompanhamento do desempenho da
 ## ⚠️ Observações Importantes
 - Não altere fórmulas, tabelas ou estruturas
 - Utilize apenas os filtros para interação
-- Para dúvidas, consulte o Manual do Usuário ou a aba Ajuda no Excel
+- Para dúvidas, consulte o Manual do Usuário
 
 ---
 
 ## 🗂️ Documentação
-- Projeto Dashbard Xbox Games.md — Documentação detalhada do projeto
 - CHANGELOG.md — Histórico de versões e alterações
 - Manual do Usuário — Guia completo de utilização
 

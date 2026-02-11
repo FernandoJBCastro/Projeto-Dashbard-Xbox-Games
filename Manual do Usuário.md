@@ -1,10 +1,10 @@
-Manual do Usuário — Dashboard Xbox One
+Manual do Usuário — Dashboard Xbox Games
 
 Visão Geral
 
 
 
-Este Dashboard foi desenvolvido para facilitar a visualização e análise das vendas de assinaturas do Xbox One. Através de gráficos e indicadores visuais, é possível acompanhar rapidamente o desempenho dos principais serviços e planos.
+Este Dashboard foi desenvolvido para facilitar a visualização e análise das vendas de assinaturas do Xbox Games. Através de gráficos e indicadores visuais, é possível acompanhar rapidamente o desempenho dos principais serviços e planos.
 
 
 
@@ -76,7 +76,7 @@ O painel apresenta os seguintes indicadores:
 
 
 
-Total de Assinaturas Xbox
+Total de Assinaturas Xbox Games
 
 
 
@@ -125,6 +125,4 @@ Não altere estruturas, tabelas ou fórmulas
 
 
 Utilize apenas as áreas destinadas à interação
-
-
 

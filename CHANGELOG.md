@@ -8,9 +8,9 @@ e este projeto adota versionamento semântico (https://semver.org/lang/pt-BR/).
 
 ## [1.0.0] - 2025-02-08
 ### Adicionado
-- Dashboard principal com resumo total das assinaturas Xbox One
+- Dashboard principal com resumo total das assinaturas Xbox Games
 - Indicadores de faturamento total por serviço
-  - Xbox Games Pass
+  - Xbox Games Games
   - EA Play Season Pass
   - Minecraft Play Season Pass
 - Segmentação por Tipo de Assinatura:
