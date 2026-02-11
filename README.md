@@ -1,114 +1,80 @@
-\# Dashboard de Assinaturas Xbox One
+# Dashboard de Assinaturas Xbox One
 
+## 📊 Visão Geral
+Este repositório contém um Dashboard desenvolvido em Microsoft Excel para análise e visualização das vendas de assinaturas do Xbox One.
 
-
-\## Descrição
-
-Este projeto consiste em um Dashboard desenvolvido em Microsoft Excel, com o objetivo de apresentar uma visão consolidada e interativa das vendas de assinaturas do Xbox One.
-
-
-
-O painel exibe o resumo total das assinaturas, com detalhamento específico para os serviços:
-
-\- EA Play Season Pass
-
-\- Minecraft Play Season Pass
-
-
-
-O Dashboard foi projetado para facilitar a análise gerencial, permitindo o uso de filtros dinâmicos que atualizam automaticamente os gráficos e indicadores.
-
-
+O painel apresenta indicadores consolidados e gráficos interativos, permitindo análises dinâmicas por meio de filtros de segmentação.
 
 ---
 
-
-
-\## Objetivo
-
-O principal objetivo deste Dashboard é fornecer uma visão clara, rápida e visual dos resultados de vendas das assinaturas, auxiliando na tomada de decisão e no acompanhamento de desempenho.
-
-
-
-Os objetivos específicos incluem:
-
-\- Monitorar o faturamento total das assinaturas
-
-\- Comparar resultados por tipo de plano
-
-\- Avaliar o impacto do tipo de assinatura (período)
-
-\- Analisar a distribuição entre renovação automática (Auto Renewal)
-
-\- Facilitar análises gerenciais por meio de filtros interativos
-
-
+## 🎯 Objetivo
+Fornecer uma ferramenta visual e interativa para acompanhamento do desempenho das assinaturas, auxiliando análises gerenciais e apoio à tomada de decisão.
 
 ---
 
-
-
-\## Ferramentas Utilizadas
-
-\- Microsoft Excel
-
-\- Tabelas Dinâmicas
-
-\- Segmentações de Dados (Slicers)
-
-\- Gráficos Dinâmicos
-
-\- Fórmulas de consolidação
-
-\- Formatação condicional
-
-\- Design de Dashboard (UX visual)
-
-
+## 🧩 Funcionalidades
+- Resumo total das assinaturas Xbox One
+- Detalhamento por serviço:
+  - EA Play Season Pass
+  - Minecraft Play Season Pass
+- Filtros interativos por:
+  - Tipo de Assinatura (Annual, Monthly, Quarterly)
+  - Tipo de Plano (Core, Standard, Ultimate)
+- Gráficos dinâmicos
+- Indicadores visuais de desempenho
+- Atualização automática conforme filtros
 
 ---
 
-
-
-\## Percurso (Fluxo de Utilização)
-
-1\. O usuário acessa a aba principal do Dashboard
-
-2\. Utiliza os filtros de segmentação para selecionar:
-
-&nbsp;  - Tipo de Assinatura (Annual, Monthly, Quarterly)
-
-&nbsp;  - Tipo de Plano (Core, Standard, Ultimate)
-
-3\. Os gráficos e indicadores são atualizados automaticamente
-
-4\. O usuário analisa:
-
-&nbsp;  - Total geral de assinaturas
-
-&nbsp;  - Total por serviço (EA Play / Minecraft)
-
-&nbsp;  - Distribuição por Auto Renewal
-
-&nbsp;  - Total por tipo de plano
-
-5\. Com base nas informações, o usuário pode tomar decisões estratégicas ou gerar relatórios
-
-
+## 🛠️ Tecnologias e Ferramentas
+- Microsoft Excel
+- Tabelas Dinâmicas
+- Segmentações de Dados (Slicers)
+- Gráficos Dinâmicos
+- Fórmulas de consolidação
+- Design de Dashboard
 
 ---
 
+## 📁 Estrutura do Repositório
+/
+├── Projeto Dashbard Xbox Games.xlsx
+├── README.md
+├── CHANGELOG.md
+├── Manual_do_Usuario.pdf
+└── Img/
 
+---
 
-\## Estrutura do Projeto
+## ▶️ Como Utilizar
+1. Faça o download do arquivo Excel
+2. Abra o arquivo no Microsoft Excel (versão recomendada: Excel 2019 ou superior)
+3. Acesse a aba Dashboard
+4. Utilize os filtros laterais para aplicar os critérios desejados
+5. Analise os indicadores e gráficos automaticamente atualizados
 
-\- Aba Dashboard: Painel principal com indicadores e gráficos
+---
 
-\- Abas de Base de Dados: Contêm as informações de vendas
+## ⚠️ Observações Importantes
+- Não altere fórmulas, tabelas ou estruturas
+- Utilize apenas os filtros para interação
+- Para dúvidas, consulte o Manual do Usuário ou a aba Ajuda no Excel
 
-\- Tabelas Dinâmicas: Responsáveis pelo processamento dos dados
+---
 
-\- Segmentações: Controles interativos para filtros
+## 🗂️ Documentação
+- Projeto Dashbard Xbox Games.md — Documentação detalhada do projeto
+- CHANGELOG.md — Histórico de versões e alterações
+- Manual do Usuário — Guia completo de utilização
 
+---
 
+## 🧑‍💻 Autor
+Desenvolvido por **Fernando Castro**
+
+---
+
+## 📌 Licença
+Este projeto é disponibilizado para fins educacionais e demonstrativos.  
+Para uso comercial, consulte o autor.
 
